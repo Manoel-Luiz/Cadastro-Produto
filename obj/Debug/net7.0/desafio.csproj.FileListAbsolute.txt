@@ -1,0 +1,5 @@
+/home/manoel/Desktop/curso/VScode/C#/desafio-lucas-git/desafio/obj/Debug/net7.0/desafio.csproj.AssemblyReference.cache
+/home/manoel/Desktop/curso/VScode/C#/desafio-lucas-git/desafio/obj/Debug/net7.0/desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/Desktop/curso/VScode/C#/desafio-lucas-git/desafio/obj/Debug/net7.0/desafio.AssemblyInfoInputs.cache
+/home/manoel/Desktop/curso/VScode/C#/desafio-lucas-git/desafio/obj/Debug/net7.0/desafio.AssemblyInfo.cs
+/home/manoel/Desktop/curso/VScode/C#/desafio-lucas-git/desafio/obj/Debug/net7.0/desafio.csproj.CoreCompileInputs.cache
